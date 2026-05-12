@@ -1,0 +1,7 @@
+Zadanie: Wymień trzy wady podejścia CDN w porównaniu do projektu npm. Wyjaśnij, czym jest hot–reload i dlaczego ułatwia pracę. 
+
+1.Zależność od zewnętrznego serwisu
+2.Nie ma hot reload
+3.Brak menedżera pakietów
+4.Hot reload to funkcja która pozwala na przeladowanie strony na goraco, pozwala dokonać zmiany w kodzie
+bez ponownego uruchamiania go.
