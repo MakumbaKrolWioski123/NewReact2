@@ -32,7 +32,7 @@ function App() {
         <h1>Szymon Wlaź</h1>
         <p>Nie wiem co ja robie</p>
         <Header />
-        <p>Kod komponentu trzymamy w osobnym pliku poniewaz pozwala to na lepsze organizowanie i skracanie kodu</p>
+        <p>Kod komponentu trzymany jest w osobnym pliku poniewaz pozwala to na lepsze organizowanie i skracanie kodu</p>
       </section>
 
       <div className="ticks"></div>
