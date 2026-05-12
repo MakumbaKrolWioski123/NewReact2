@@ -1,0 +1,3 @@
+1.Komponent to zbior wszystkich elementow tworzących n.p funkcje a element to pojedynczy skrawek kodu
+n.p <h1>Naglowek<h1>.
+2.Kod się popsuje jeśli uzyjemy kompnentu z mala litera ponieważ male litery sa używane w html i nie zostaną rozpoznane jako komponent.

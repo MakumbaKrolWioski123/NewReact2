@@ -1,0 +1,29 @@
+Pytanie: Wskaż i wyjaśnij błędy w poniższym kodzie: 
+
+function Dashboard() { 
+
+ function UserBadge() { 
+
+ return <span className="badge">Admin</span>; 
+
+ } 
+
+ function StatsCard() { <- było tez z malej litery
+
+ return <div className="stats">Statystyki</div>; 
+
+ } 
+
+ return ( 
+
+ <div> 
+
+  <UserBadge /> 
+
+  <StatsCard /> <- było z malej litery nazwa komponentu
+
+ </div> 
+
+ ); 
+
+} 
