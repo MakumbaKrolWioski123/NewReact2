@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
+import Header from './components/Header';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -30,6 +31,8 @@ function App() {
         </button>
         <h1>Szymon Wlaź</h1>
         <p>Nie wiem co ja robie</p>
+        <Header />
+        <p>Kod komponentu trzymamy w osobnym pliku poniewaz pozwala to na lepsze organizowanie i skracanie kodu</p>
       </section>
 
       <div className="ticks"></div>
