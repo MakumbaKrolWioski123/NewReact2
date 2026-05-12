@@ -1,0 +1,4 @@
+1.JSX Expression pozwala na pisanie kodu JavaScript w plikach jsx jak sa klamerki {}, do tych klamer można
+włożyc string,number,wywolania funkcji i wyrażenia arytmetyczne, nie można przekazac petli for i zmiennych
+const, let, var.
+2.ClassName zamiast class bo class jest zarezerwowany dla JavaScript
